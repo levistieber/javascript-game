@@ -2,14 +2,20 @@ body{
     background-color: darkkhaki;
 }
 
+#score{
+    color: #1f830f;
+    font-size: 20px;
+    text-align: center;
+}
+
 #score1{
-    color: antiquewhite;
+    color: #bd7923;
     font-size: 20px;
     text-align: center;
 }
 
 #score2{
-    color: antiquewhite;
+    color: #a887de;
     font-size: 20px;
     text-align: center;
 }
@@ -18,8 +24,12 @@ h1{
     text-align: center;
 }
 
+#canvas{
+    background-color: #1f830f;
+}
+
 #canvas1{
-    background-color: burlywood;
+    background-color: #bd7923;
 }
 
 #canvas2{
