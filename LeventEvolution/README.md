@@ -1,5 +1,8 @@
 # JavaScript Start Document - LeventEvolution
 
+Levente Stieber
+Student number: 4843339
+
 ## Description
 
 This game is the final assignment for the course JavaScript.
