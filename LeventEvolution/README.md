@@ -1,5 +1,8 @@
 # JavaScript Start Document - LeventEvolution
 
+Levente Stieber  
+Student number: 4843339
+
 ## Description
 
 This game is the final assignment for the course JavaScript.
@@ -14,7 +17,7 @@ This game is the final assignment for the course JavaScript.
 
 ### __Unique point__
 
-This version is a themed alternative of 2048. The theme is myself, growing up - the small tiles are pictures of me in my childhood, while the bigger the number gets, the older I get on the picture. I decided this theme, because my mother likes to play games like solitaire, so I thought I would give her another option to play!
+This version is a themed alternative of 2048. The theme is myself, growing up - the small tiles are pictures of me in my childhood, while the bigger the number gets, the older I get on the picture. I decided this theme, because my mother likes to play digital games like solitaire or Candy crush, so I thought I would give her another option to play!
 Furthermore, this is a multiplayer game, so 2 people can compete against each other. A regular single player mode is also available.
 
 ## Class diagram
