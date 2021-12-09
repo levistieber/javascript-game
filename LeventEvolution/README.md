@@ -1,6 +1,6 @@
 # JavaScript Start Document - LeventEvolution
 
-Levente Stieber
+Levente Stieber  
 Student number: 4843339
 
 ## Description
