@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link href="../style/style.css" rel="stylesheet">
+  <title>2048</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+<h1 id="titleInGame" onClick="location.href='../index.html';">LeventEvolution</h1>
+  <div id="properties">
+    <p id="props"><button id="switch" onClick="location.href='oneplayer.html';">Switch to 1 player mode</button>
+      <button id="newGame" onClick="window.location.reload();">New game</button>
+      <button id="creator">Creator: Levente Stieber</button></p>
+  </div>
+  <div id="game">
+  <div class="canvas-block">
+    <p id="score1">Player 1 : 0 points</p>
+    <canvas id="canvas1" width="500" height="500"></canvas>
+  </div>
+  <div class="canvas-block">
+    <p id="score2">Player 2 : 0 points</p>
+    <canvas id="canvas2" width="500" height="500"></canvas>
+  </div>
+  </div>
+
+  <img src="../images/1.png" id="first">
+  <img src="../images/2.png" id="second">
+  <img src="../images/3.png" id="third">
+  <img src="../images/4.png" id="fourth">
+  <img src="../images/5.png" id="fifth">
+  <img src="../images/6.png" id="sixth">
+  <img src="../images/7.png" id="seventh">
+  <img src="../images/8.png" id="eighth">
+  <img src="../images/9.png" id="ninth">
+  <img src="../images/10.png" id="tenth">
+  <img src="../images/11.png" id="eleventh">
+  <img src="../images/12.png" id="twelfth">
+
+  <script src="../script/scriptTwoP.js"></script>
+
+</body>
+</html>

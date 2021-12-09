@@ -1,0 +1,102 @@
+body{
+    background-color: darkkhaki;
+}
+
+#score1{
+    color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+}
+
+#score2{
+    color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#canvas1{
+    background-color: burlywood;
+}
+
+#canvas2{
+    background-color: #a887de;
+}
+
+#game {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.canvas-block{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#playerChoose {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.playerOption {
+    padding: 15px 32px;
+    font-size: 32px;
+    cursor: pointer;
+}
+
+#title {
+    font-size: 50px;
+    font-family:Courier New;
+    color: #a887de;
+}
+
+#titleInGame {
+    font-size: 30px;
+    font-family:Courier New;
+    color: #a887de;
+    cursor: pointer;
+}
+
+#properties {
+    justify-content: space-evenly;
+    align-content: space-evenly;
+}
+
+#props {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: #a887de;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#newGame {
+    font-size: 10px;
+    cursor: pointer;
+    width: 150px;
+    padding: 15px 10px;
+}
+
+#switch {
+    font-size: 10px;
+    cursor: pointer;
+    width: 150px;
+    padding: 15px 10px;
+}
+
+#creator {
+    font-size: 10px;
+    width: 150px;
+    padding: 15px 10px;
+}
